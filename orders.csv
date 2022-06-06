@@ -1,0 +1,313 @@
+OrderID;CustomerID;EmployeeID;OrderDate;RequiredDate;ShippedDate;ShipVia;Freight;ShipName;ShipAddress;ShipCity;ShipRegion;ShipPostalCode;ShipCountry
+10248;North_VINET;5;04-07-1996;01-08-1996;16-07-1996;3;32.38;Vins et alcools Chevalier;59 rue de l-Abbaye;Reims;;51100;France
+10249;North_TOMSP;6;05-07-1996;16-08-1996;10-07-1996;1;11.61;Toms Spezialitten;Luisenstr. 48;Mnster;;44087;Germany
+10250;North_HANAR;4;08-07-1996;05-08-1996;12-07-1996;2;65.83;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+10251;North_VICTE;3;08-07-1996;05-08-1996;15-07-1996;1;41.34;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France
+10252;North_SUPRD;4;09-07-1996;06-08-1996;11-07-1996;2;51.3;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+10253;North_HANAR;3;10-07-1996;24-07-1996;16-07-1996;2;58.17;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+10254;North_CHOPS;5;11-07-1996;08-08-1996;23-07-1996;2;22.98;Chop-suey Chinese;Hauptstr. 31;Bern;;3012;Switzerland
+10255;North_RICSU;9;12-07-1996;09-08-1996;15-07-1996;3;148.33;Richter Supermarkt;Starenweg 5;Genve;;1204;Switzerland
+10256;North_WELLI;3;15-07-1996;12-08-1996;17-07-1996;2;13.97;Wellington Importadora;Rua do Mercado, 12;Resende;SP;08737-363;Brazil
+10257;North_HILAA;4;16-07-1996;13-08-1996;22-07-1996;3;81.91;HILARION-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10258;North_ERNSH;1;17-07-1996;14-08-1996;23-07-1996;1;140.51;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10259;North_CENTC;4;18-07-1996;15-08-1996;25-07-1996;3;3.25;Centro comercial Moctezuma;Sierras de Granada 9993;Mxico D.F.;;5022;Mexico
+10260;North_OTTIK;4;19-07-1996;16-08-1996;29-07-1996;1;55.09;Ottilies Kseladen;Mehrheimerstr. 369;Kln;;50739;Germany
+10261;North_QUEDE;4;19-07-1996;16-08-1996;30-07-1996;2;3.05;Que Delcia;Rua da Panificadora, 12;Rio de Janeiro;RJ;02389-673;Brazil
+10262;North_RATTC;8;22-07-1996;19-08-1996;25-07-1996;3;48.29;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10263;North_ERNSH;9;23-07-1996;20-08-1996;31-07-1996;3;146.06;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10264;North_FOLKO;6;24-07-1996;21-08-1996;23-08-1996;3;3.67;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10265;North_BLONP;2;25-07-1996;22-08-1996;12-08-1996;1;55.28;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
+10266;North_WARTH;3;26-07-1996;06-09-1996;31-07-1996;3;25.73;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10267;North_FRANK;4;29-07-1996;26-08-1996;06-08-1996;1;208.58;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10268;North_GROSR;8;30-07-1996;27-08-1996;02-08-1996;3;66.29;GROSELLA-Restaurante;5 Ave. Los Palos Grandes;Caracas;DF;1081;Venezuela
+10269;North_WHITC;5;31-07-1996;14-08-1996;09-08-1996;1;4.56;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10270;North_WARTH;1;01-08-1996;29-08-1996;02-08-1996;1;136.54;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10271;North_SPLIR;6;01-08-1996;29-08-1996;30-08-1996;2;4.54;Split Rail Beer & Ale;P.O. Box 555;Lander;WY;82520;USA
+10272;North_RATTC;6;02-08-1996;30-08-1996;06-08-1996;2;98.03;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10273;North_QUICK;3;05-08-1996;02-09-1996;12-08-1996;3;76.07;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10274;North_VINET;6;06-08-1996;03-09-1996;16-08-1996;1;6.01;Vins et alcools Chevalier;59 rue de l-Abbaye;Reims;;51100;France
+10275;North_MAGAA;1;07-08-1996;04-09-1996;09-08-1996;1;26.93;Magazzini Alimentari Riuniti;Via Ludovico il Moro 22;Bergamo;;24100;Italy
+10276;North_TORTU;8;08-08-1996;22-08-1996;14-08-1996;3;13.84;Tortuga Restaurante;Avda. Azteca 123;Mxico D.F.;;5033;Mexico
+10277;North_MORGK;2;09-08-1996;06-09-1996;13-08-1996;3;125.77;Morgenstern Gesundkost;Heerstr. 22;Leipzig;;4179;Germany
+10278;North_BERGS;8;12-08-1996;09-09-1996;16-08-1996;2;92.69;Berglunds snabbkp;Berguvsvgen 8;Lule;;S-958 22;Sweden
+10279;North_LEHMS;8;13-08-1996;10-09-1996;16-08-1996;2;25.83;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10280;North_BERGS;2;14-08-1996;11-09-1996;12-09-1996;1;8.98;Berglunds snabbkp;Berguvsvgen 8;Lule;;S-958 22;Sweden
+10281;North_ROMEY;4;14-08-1996;28-08-1996;21-08-1996;1;2.94;Romero y tomillo;Gran Va, 1;Madrid;;28001;Spain
+10282;North_ROMEY;4;15-08-1996;12-09-1996;21-08-1996;1;12.69;Romero y tomillo;Gran Va, 1;Madrid;;28001;Spain
+10283;North_LILAS;3;16-08-1996;13-09-1996;23-08-1996;3;84.81;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10284;North_LEHMS;4;19-08-1996;16-09-1996;27-08-1996;1;76.56;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10285;North_QUICK;1;20-08-1996;17-09-1996;26-08-1996;2;76.83;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10286;North_QUICK;8;21-08-1996;18-09-1996;30-08-1996;3;229.24;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10287;North_RICAR;8;22-08-1996;19-09-1996;28-08-1996;3;12.76;Ricardo Adocicados;Av. Copacabana, 267;Rio de Janeiro;RJ;02389-890;Brazil
+10288;North_REGGC;4;23-08-1996;20-09-1996;03-09-1996;1;7.45;Reggiani Caseifici;Strada Provinciale 124;Reggio Emilia;;42100;Italy
+10289;North_BSBEV;7;26-08-1996;23-09-1996;28-08-1996;3;22.77;B-s Beverages;Fauntleroy Circus;London;;EC2 5NT;UK
+10290;North_COMMI;8;27-08-1996;24-09-1996;03-09-1996;1;79.7;Comrcio Mineiro;Av. dos Lusadas, 23;Sao Paulo;SP;05432-043;Brazil
+10291;North_QUEDE;6;27-08-1996;24-09-1996;04-09-1996;2;6.4;Que Delcia;Rua da Panificadora, 12;Rio de Janeiro;RJ;02389-673;Brazil
+10292;North_TRADH;1;28-08-1996;25-09-1996;02-09-1996;2;1.35;Tradiao Hipermercados;Av. Ins de Castro, 414;Sao Paulo;SP;05634-030;Brazil
+10293;North_TORTU;1;29-08-1996;26-09-1996;11-09-1996;3;21.18;Tortuga Restaurante;Avda. Azteca 123;Mxico D.F.;;5033;Mexico
+10294;North_RATTC;4;30-08-1996;27-09-1996;05-09-1996;2;147.26;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10295;North_VINET;2;02-09-1996;30-09-1996;10-09-1996;2;1.15;Vins et alcools Chevalier;59 rue de l-Abbaye;Reims;;51100;France
+10296;North_LILAS;6;03-09-1996;01-10-1996;11-09-1996;1;0.12;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10297;North_BLONP;5;04-09-1996;16-10-1996;10-09-1996;2;5.74;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
+10298;North_HUNGO;6;05-09-1996;03-10-1996;11-09-1996;2;168.22;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10299;North_RICAR;4;06-09-1996;04-10-1996;13-09-1996;2;29.76;Ricardo Adocicados;Av. Copacabana, 267;Rio de Janeiro;RJ;02389-890;Brazil
+10300;North_MAGAA;2;09-09-1996;07-10-1996;18-09-1996;2;17.68;Magazzini Alimentari Riuniti;Via Ludovico il Moro 22;Bergamo;;24100;Italy
+10301;North_WANDK;8;09-09-1996;07-10-1996;17-09-1996;2;45.08;Die Wandernde Kuh;Adenauerallee 900;Stuttgart;;70563;Germany
+10302;North_SUPRD;4;10-09-1996;08-10-1996;09-10-1996;2;6.27;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+10303;North_GODOS;7;11-09-1996;09-10-1996;18-09-1996;2;107.83;Godos Cocina Tpica;C/ Romero, 33;Sevilla;;41101;Spain
+10304;North_TORTU;1;12-09-1996;10-10-1996;17-09-1996;2;63.79;Tortuga Restaurante;Avda. Azteca 123;Mxico D.F.;;5033;Mexico
+10305;North_OLDWO;8;13-09-1996;11-10-1996;09-10-1996;3;257.62;Old World Delicatessen;2743 Bering St.;Anchorage;AK;99508;USA
+10306;North_ROMEY;1;16-09-1996;14-10-1996;23-09-1996;3;7.56;Romero y tomillo;Gran Va, 1;Madrid;;28001;Spain
+10307;North_LONEP;2;17-09-1996;15-10-1996;25-09-1996;2;0.56;Lonesome Pine Restaurant;89 Chiaroscuro Rd.;Portland;OR;97219;USA
+10308;North_ANATR;7;18-09-1996;16-10-1996;24-09-1996;3;1.61;Ana Trujillo Emparedados y helados;Avda. de la Constitucin 2222;Mxico D.F.;;5021;Mexico
+10309;North_HUNGO;3;19-09-1996;17-10-1996;23-10-1996;1;47.3;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10310;North_THEBI;8;20-09-1996;18-10-1996;27-09-1996;2;17.52;The Big Cheese;89 Jefferson Way Suite 2;Portland;OR;97201;USA
+10311;North_DUMON;1;20-09-1996;04-10-1996;26-09-1996;3;24.69;Du monde entier;67, rue des Cinquante Otages;Nantes;;44000;France
+10312;North_WANDK;2;23-09-1996;21-10-1996;03-10-1996;2;40.26;Die Wandernde Kuh;Adenauerallee 900;Stuttgart;;70563;Germany
+10313;North_QUICK;2;24-09-1996;22-10-1996;04-10-1996;2;1.96;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10314;North_RATTC;1;25-09-1996;23-10-1996;04-10-1996;2;74.16;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10315;North_ISLAT;4;26-09-1996;24-10-1996;03-10-1996;2;41.76;Island Trading;Garden House Crowther Way;Cowes;Isle of Wight;PO31 7PJ;UK
+10316;North_RATTC;1;27-09-1996;25-10-1996;08-10-1996;3;150.15;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10317;North_LONEP;6;30-09-1996;28-10-1996;10-10-1996;1;12.69;Lonesome Pine Restaurant;89 Chiaroscuro Rd.;Portland;OR;97219;USA
+10318;North_ISLAT;8;01-10-1996;29-10-1996;04-10-1996;2;4.73;Island Trading;Garden House Crowther Way;Cowes;Isle of Wight;PO31 7PJ;UK
+10319;North_TORTU;7;02-10-1996;30-10-1996;11-10-1996;3;64.5;Tortuga Restaurante;Avda. Azteca 123;Mxico D.F.;;5033;Mexico
+10320;North_WARTH;5;03-10-1996;17-10-1996;18-10-1996;3;34.57;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10321;North_ISLAT;3;03-10-1996;31-10-1996;11-10-1996;2;3.43;Island Trading;Garden House Crowther Way;Cowes;Isle of Wight;PO31 7PJ;UK
+10322;North_PERIC;7;04-10-1996;01-11-1996;23-10-1996;3;0.4;Pericles Comidas clsicas;Calle Dr. Jorge Cash 321;Mxico D.F.;;5033;Mexico
+10323;North_KOENE;4;07-10-1996;04-11-1996;14-10-1996;1;4.88;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10324;North_SAVEA;9;08-10-1996;05-11-1996;10-10-1996;1;214.27;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10325;North_KOENE;1;09-10-1996;23-10-1996;14-10-1996;3;64.86;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10326;North_BOLID;4;10-10-1996;07-11-1996;14-10-1996;2;77.92;Blido Comidas preparadas;C/ Araquil, 67;Madrid;;28023;Spain
+10327;North_FOLKO;2;11-10-1996;08-11-1996;14-10-1996;1;63.36;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10328;North_FURIB;4;14-10-1996;11-11-1996;17-10-1996;3;87.03;Furia Bacalhau e Frutos do Mar;Jardim das rosas n. 32;Lisboa;;1675;Portugal
+10329;North_SPLIR;4;15-10-1996;26-11-1996;23-10-1996;2;191.67;Split Rail Beer & Ale;P.O. Box 555;Lander;WY;82520;USA
+10330;North_LILAS;3;16-10-1996;13-11-1996;28-10-1996;1;12.75;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10331;North_BONAP;9;16-10-1996;27-11-1996;21-10-1996;1;10.19;Bon app-;12, rue des Bouchers;Marseille;;13008;France
+10332;North_MEREP;3;17-10-1996;28-11-1996;21-10-1996;2;52.84;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10333;North_WARTH;5;18-10-1996;15-11-1996;25-10-1996;3;0.59;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10334;North_VICTE;8;21-10-1996;18-11-1996;28-10-1996;2;8.56;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France
+10335;North_HUNGO;7;22-10-1996;19-11-1996;24-10-1996;2;42.11;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10336;North_PRINI;7;23-10-1996;20-11-1996;25-10-1996;2;15.51;Princesa Isabel Vinhos;Estrada da sade n. 58;Lisboa;;1756;Portugal
+10337;North_FRANK;4;24-10-1996;21-11-1996;29-10-1996;3;108.26;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10338;North_OLDWO;4;25-10-1996;22-11-1996;29-10-1996;3;84.21;Old World Delicatessen;2743 Bering St.;Anchorage;AK;99508;USA
+10339;North_MEREP;2;28-10-1996;25-11-1996;04-11-1996;2;15.66;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10340;North_BONAP;1;29-10-1996;26-11-1996;08-11-1996;3;166.31;Bon app-;12, rue des Bouchers;Marseille;;13008;France
+10341;North_SIMOB;7;29-10-1996;26-11-1996;05-11-1996;3;26.78;Simons bistro;Vinbltet 34;Kobenhavn;;1734;Denmark
+10342;North_FRANK;4;30-10-1996;13-11-1996;04-11-1996;2;54.83;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10343;North_LEHMS;4;31-10-1996;28-11-1996;06-11-1996;1;110.37;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10344;North_WHITC;4;01-11-1996;29-11-1996;05-11-1996;2;23.29;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10345;North_QUICK;2;04-11-1996;02-12-1996;11-11-1996;2;249.06;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10346;North_RATTC;3;05-11-1996;17-12-1996;08-11-1996;3;142.08;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10347;North_FAMIA;4;06-11-1996;04-12-1996;08-11-1996;3;3.1;Familia Arquibaldo;Rua Ors, 92;Sao Paulo;SP;05442-030;Brazil
+10348;North_WANDK;4;07-11-1996;05-12-1996;15-11-1996;2;0.78;Die Wandernde Kuh;Adenauerallee 900;Stuttgart;;70563;Germany
+10349;North_SPLIR;7;08-11-1996;06-12-1996;15-11-1996;1;8.63;Split Rail Beer & Ale;P.O. Box 555;Lander;WY;82520;USA
+10350;North_LAMAI;6;11-11-1996;09-12-1996;03-12-1996;2;64.19;La maison d-Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10351;North_ERNSH;1;11-11-1996;09-12-1996;20-11-1996;1;162.33;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10352;North_FURIB;3;12-11-1996;26-11-1996;18-11-1996;3;1.3;Furia Bacalhau e Frutos do Mar;Jardim das rosas n. 32;Lisboa;;1675;Portugal
+10353;North_PICCO;7;13-11-1996;11-12-1996;25-11-1996;3;360.63;Piccolo und mehr;Geislweg 14;Salzburg;;5020;Austria
+10354;North_PERIC;8;14-11-1996;12-12-1996;20-11-1996;3;53.8;Pericles Comidas clsicas;Calle Dr. Jorge Cash 321;Mxico D.F.;;5033;Mexico
+10355;North_AROUT;6;15-11-1996;13-12-1996;20-11-1996;1;41.95;Around the Horn;Brook Farm Stratford St. Mary;Colchester;Essex;CO7 6JX;UK
+10356;North_WANDK;6;18-11-1996;16-12-1996;27-11-1996;2;36.71;Die Wandernde Kuh;Adenauerallee 900;Stuttgart;;70563;Germany
+10357;North_LILAS;1;19-11-1996;17-12-1996;02-12-1996;3;34.88;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10358;North_LAMAI;5;20-11-1996;18-12-1996;27-11-1996;1;19.64;La maison d-Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10359;North_SEVES;5;21-11-1996;19-12-1996;26-11-1996;3;288.43;Seven Seas Imports;90 Wadhurst Rd.;London;;OX15 4NB;UK
+10360;North_BLONP;4;22-11-1996;20-12-1996;02-12-1996;3;131.7;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
+10361;North_QUICK;1;22-11-1996;20-12-1996;03-12-1996;2;183.17;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10362;North_BONAP;3;25-11-1996;23-12-1996;28-11-1996;1;96.04;Bon app-;12, rue des Bouchers;Marseille;;13008;France
+10363;North_DRACD;4;26-11-1996;24-12-1996;04-12-1996;3;30.54;Drachenblut Delikatessen;Walserweg 21;Aachen;;52066;Germany
+10364;North_EASTC;1;26-11-1996;07-01-1997;04-12-1996;1;71.97;Eastern Connection;35 King George;London;;WX3 6FW;UK
+10365;North_ANTON;3;27-11-1996;25-12-1996;02-12-1996;2;22.0;Antonio Moreno Taquera;Mataderos 2312;Mxico D.F.;;5023;Mexico
+10366;North_GALED;8;28-11-1996;09-01-1997;30-12-1996;2;10.14;Galera del gastronmo;Rambla de Catalua, 23;Barcelona;;8022;Spain
+10367;North_VAFFE;7;28-11-1996;26-12-1996;02-12-1996;3;13.55;Vaffeljernet;Smagsloget 45;rhus;;8200;Denmark
+10368;North_ERNSH;2;29-11-1996;27-12-1996;02-12-1996;2;101.95;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10369;North_SPLIR;8;02-12-1996;30-12-1996;09-12-1996;2;195.68;Split Rail Beer & Ale;P.O. Box 555;Lander;WY;82520;USA
+10370;North_CHOPS;6;03-12-1996;31-12-1996;27-12-1996;2;1.17;Chop-suey Chinese;Hauptstr. 31;Bern;;3012;Switzerland
+10371;North_LAMAI;1;03-12-1996;31-12-1996;24-12-1996;1;0.45;La maison d-Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10372;North_QUEEN;5;04-12-1996;01-01-1997;09-12-1996;2;890.78;Queen Cozinha;Alameda dos Canrios, 891;Sao Paulo;SP;05487-020;Brazil
+10373;North_HUNGO;4;05-12-1996;02-01-1997;11-12-1996;3;124.12;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10374;North_WOLZA;1;05-12-1996;02-01-1997;09-12-1996;3;3.94;Wolski Zajazd;ul. Filtrowa 68;Warszawa;;01-012;Poland
+10375;North_HUNGC;3;06-12-1996;03-01-1997;09-12-1996;2;20.12;Hungry Coyote Import Store;City Center Plaza 516 Main St.;Elgin;OR;97827;USA
+10376;North_MEREP;1;09-12-1996;06-01-1997;13-12-1996;2;20.39;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10377;North_SEVES;1;09-12-1996;06-01-1997;13-12-1996;3;22.21;Seven Seas Imports;90 Wadhurst Rd.;London;;OX15 4NB;UK
+10378;North_FOLKO;5;10-12-1996;07-01-1997;19-12-1996;3;5.44;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10379;North_QUEDE;2;11-12-1996;08-01-1997;13-12-1996;1;45.03;Que Delcia;Rua da Panificadora, 12;Rio de Janeiro;RJ;02389-673;Brazil
+10380;North_HUNGO;8;12-12-1996;09-01-1997;16-01-1997;3;35.03;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10381;North_LILAS;3;12-12-1996;09-01-1997;13-12-1996;3;7.99;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10382;North_ERNSH;4;13-12-1996;10-01-1997;16-12-1996;1;94.77;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10383;North_AROUT;8;16-12-1996;13-01-1997;18-12-1996;3;34.24;Around the Horn;Brook Farm Stratford St. Mary;Colchester;Essex;CO7 6JX;UK
+10384;North_BERGS;3;16-12-1996;13-01-1997;20-12-1996;3;168.64;Berglunds snabbkp;Berguvsvgen 8;Lule;;S-958 22;Sweden
+10385;North_SPLIR;1;17-12-1996;14-01-1997;23-12-1996;2;30.96;Split Rail Beer & Ale;P.O. Box 555;Lander;WY;82520;USA
+10386;North_FAMIA;9;18-12-1996;01-01-1997;25-12-1996;3;13.99;Familia Arquibaldo;Rua Ors, 92;Sao Paulo;SP;05442-030;Brazil
+10387;North_SANTG;1;18-12-1996;15-01-1997;20-12-1996;2;93.63;Sant Gourmet;Erling Skakkes gate 78;Stavern;;4110;Norway
+10388;North_SEVES;2;19-12-1996;16-01-1997;20-12-1996;1;34.86;Seven Seas Imports;90 Wadhurst Rd.;London;;OX15 4NB;UK
+10389;North_BOTTM;4;20-12-1996;17-01-1997;24-12-1996;2;47.42;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+10390;North_ERNSH;6;23-12-1996;20-01-1997;26-12-1996;1;126.38;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10391;North_DRACD;3;23-12-1996;20-01-1997;31-12-1996;3;5.45;Drachenblut Delikatessen;Walserweg 21;Aachen;;52066;Germany
+10392;North_PICCO;2;24-12-1996;21-01-1997;01-01-1997;3;122.46;Piccolo und mehr;Geislweg 14;Salzburg;;5020;Austria
+10393;North_SAVEA;1;25-12-1996;22-01-1997;03-01-1997;3;126.56;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10394;North_HUNGC;1;25-12-1996;22-01-1997;03-01-1997;3;30.34;Hungry Coyote Import Store;City Center Plaza 516 Main St.;Elgin;OR;97827;USA
+10395;North_HILAA;6;26-12-1996;23-01-1997;03-01-1997;1;184.41;HILARION-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10396;North_FRANK;1;27-12-1996;10-01-1997;06-01-1997;3;135.35;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10397;North_PRINI;5;27-12-1996;24-01-1997;02-01-1997;1;60.26;Princesa Isabel Vinhos;Estrada da sade n. 58;Lisboa;;1756;Portugal
+10398;North_SAVEA;2;30-12-1996;27-01-1997;09-01-1997;3;89.16;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10399;North_VAFFE;8;31-12-1996;14-01-1997;08-01-1997;3;27.36;Vaffeljernet;Smagsloget 45;rhus;;8200;Denmark
+10400;North_EASTC;1;01-01-1997;29-01-1997;16-01-1997;3;83.93;Eastern Connection;35 King George;London;;WX3 6FW;UK
+10401;North_RATTC;1;01-01-1997;29-01-1997;10-01-1997;1;12.51;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10402;North_ERNSH;8;02-01-1997;13-02-1997;10-01-1997;2;67.88;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10403;North_ERNSH;4;03-01-1997;31-01-1997;09-01-1997;3;73.79;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10404;North_MAGAA;2;03-01-1997;31-01-1997;08-01-1997;1;155.97;Magazzini Alimentari Riuniti;Via Ludovico il Moro 22;Bergamo;;24100;Italy
+10405;North_LINOD;1;06-01-1997;03-02-1997;22-01-1997;1;34.82;LINO-Delicateses;Ave. 5 de Mayo Porlamar;I. de Margarita;Nueva Esparta;4980;Venezuela
+10406;North_QUEEN;7;07-01-1997;18-02-1997;13-01-1997;1;108.04;Queen Cozinha;Alameda dos Canrios, 891;Sao Paulo;SP;05487-020;Brazil
+10407;North_OTTIK;2;07-01-1997;04-02-1997;30-01-1997;2;91.48;Ottilies Kseladen;Mehrheimerstr. 369;Kln;;50739;Germany
+10408;North_FOLIG;8;08-01-1997;05-02-1997;14-01-1997;1;11.26;Folies gourmandes;184, chausse de Tournai;Lille;;59000;France
+10409;North_OCEAN;3;09-01-1997;06-02-1997;14-01-1997;1;29.83;Ocano Atlntico Ltda.;Ing. Gustavo Moncada 8585 Piso 20-A;Buenos Aires;;1010;Argentina
+10410;North_BOTTM;3;10-01-1997;07-02-1997;15-01-1997;3;2.4;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+10411;North_BOTTM;9;10-01-1997;07-02-1997;21-01-1997;3;23.65;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+10412;North_WARTH;8;13-01-1997;10-02-1997;15-01-1997;2;3.77;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10413;North_LAMAI;3;14-01-1997;11-02-1997;16-01-1997;2;95.66;La maison d-Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10414;North_FAMIA;2;14-01-1997;11-02-1997;17-01-1997;3;21.48;Familia Arquibaldo;Rua Ors, 92;Sao Paulo;SP;05442-030;Brazil
+10415;North_HUNGC;3;15-01-1997;12-02-1997;24-01-1997;1;0.2;Hungry Coyote Import Store;City Center Plaza 516 Main St.;Elgin;OR;97827;USA
+10416;North_WARTH;8;16-01-1997;13-02-1997;27-01-1997;3;22.72;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10417;North_SIMOB;4;16-01-1997;13-02-1997;28-01-1997;3;70.29;Simons bistro;Vinbltet 34;Kobenhavn;;1734;Denmark
+10418;North_QUICK;4;17-01-1997;14-02-1997;24-01-1997;1;17.55;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10419;North_RICSU;4;20-01-1997;17-02-1997;30-01-1997;2;137.35;Richter Supermarkt;Starenweg 5;Genve;;1204;Switzerland
+10420;North_WELLI;3;21-01-1997;18-02-1997;27-01-1997;1;44.12;Wellington Importadora;Rua do Mercado, 12;Resende;SP;08737-363;Brazil
+10421;North_QUEDE;8;21-01-1997;04-03-1997;27-01-1997;1;99.23;Que Delcia;Rua da Panificadora, 12;Rio de Janeiro;RJ;02389-673;Brazil
+10422;North_FRANS;2;22-01-1997;19-02-1997;31-01-1997;1;3.02;Franchi S.p.A.;Via Monte Bianco 34;Torino;;10100;Italy
+10423;North_GOURL;6;23-01-1997;06-02-1997;24-02-1997;3;24.5;Gourmet Lanchonetes;Av. Brasil, 442;Campinas;SP;04876-786;Brazil
+10424;North_MEREP;7;23-01-1997;20-02-1997;27-01-1997;2;370.61;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10425;North_LAMAI;6;24-01-1997;21-02-1997;14-02-1997;2;7.93;La maison d-Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10426;North_GALED;4;27-01-1997;24-02-1997;06-02-1997;1;18.69;Galera del gastronmo;Rambla de Catalua, 23;Barcelona;;8022;Spain
+10427;North_PICCO;4;27-01-1997;24-02-1997;03-03-1997;2;31.29;Piccolo und mehr;Geislweg 14;Salzburg;;5020;Austria
+10428;North_REGGC;7;28-01-1997;25-02-1997;04-02-1997;1;11.09;Reggiani Caseifici;Strada Provinciale 124;Reggio Emilia;;42100;Italy
+10429;North_HUNGO;3;29-01-1997;12-03-1997;07-02-1997;2;56.63;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10430;North_ERNSH;4;30-01-1997;13-02-1997;03-02-1997;1;458.78;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10431;North_BOTTM;4;30-01-1997;13-02-1997;07-02-1997;2;44.17;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+10432;North_SPLIR;3;31-01-1997;14-02-1997;07-02-1997;2;4.34;Split Rail Beer & Ale;P.O. Box 555;Lander;WY;82520;USA
+10433;North_PRINI;3;03-02-1997;03-03-1997;04-03-1997;3;73.83;Princesa Isabel Vinhos;Estrada da sade n. 58;Lisboa;;1756;Portugal
+10434;North_FOLKO;3;03-02-1997;03-03-1997;13-02-1997;2;17.92;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10435;North_CONSH;8;04-02-1997;18-03-1997;07-02-1997;2;9.21;Consolidated Holdings;Berkeley Gardens 12 Brewery;London;;WX1 6LT;UK
+10436;North_BLONP;3;05-02-1997;05-03-1997;11-02-1997;2;156.66;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
+10437;North_WARTH;8;05-02-1997;05-03-1997;12-02-1997;1;19.97;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10438;North_TOMSP;3;06-02-1997;06-03-1997;14-02-1997;2;8.24;Toms Spezialitten;Luisenstr. 48;Mnster;;44087;Germany
+10439;North_MEREP;6;07-02-1997;07-03-1997;10-02-1997;3;4.07;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10440;North_SAVEA;4;10-02-1997;10-03-1997;28-02-1997;2;86.53;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10441;North_OLDWO;3;10-02-1997;24-03-1997;14-03-1997;2;73.02;Old World Delicatessen;2743 Bering St.;Anchorage;AK;99508;USA
+10442;North_ERNSH;3;11-02-1997;11-03-1997;18-02-1997;2;47.94;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10443;North_REGGC;8;12-02-1997;12-03-1997;14-02-1997;1;13.95;Reggiani Caseifici;Strada Provinciale 124;Reggio Emilia;;42100;Italy
+10444;North_BERGS;3;12-02-1997;12-03-1997;21-02-1997;3;3.5;Berglunds snabbkp;Berguvsvgen 8;Lule;;S-958 22;Sweden
+10445;North_BERGS;3;13-02-1997;13-03-1997;20-02-1997;1;9.3;Berglunds snabbkp;Berguvsvgen 8;Lule;;S-958 22;Sweden
+10446;North_TOMSP;6;14-02-1997;14-03-1997;19-02-1997;1;14.68;Toms Spezialitten;Luisenstr. 48;Mnster;;44087;Germany
+10447;North_RICAR;4;14-02-1997;14-03-1997;07-03-1997;2;68.66;Ricardo Adocicados;Av. Copacabana, 267;Rio de Janeiro;RJ;02389-890;Brazil
+10448;North_RANCH;4;17-02-1997;17-03-1997;24-02-1997;2;38.82;Rancho grande;Av. del Libertador 900;Buenos Aires;;1010;Argentina
+10449;North_BLONP;3;18-02-1997;18-03-1997;27-02-1997;2;53.3;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
+10450;North_VICTE;8;19-02-1997;19-03-1997;11-03-1997;2;7.23;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France
+10451;North_QUICK;4;19-02-1997;05-03-1997;12-03-1997;3;189.09;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10452;North_SAVEA;8;20-02-1997;20-03-1997;26-02-1997;1;140.26;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10453;North_AROUT;1;21-02-1997;21-03-1997;26-02-1997;2;25.36;Around the Horn;Brook Farm Stratford St. Mary;Colchester;Essex;CO7 6JX;UK
+10454;North_LAMAI;4;21-02-1997;21-03-1997;25-02-1997;3;2.74;La maison d-Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10455;North_WARTH;8;24-02-1997;07-04-1997;03-03-1997;2;180.45;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10456;North_KOENE;8;25-02-1997;08-04-1997;28-02-1997;2;8.12;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10457;North_KOENE;2;25-02-1997;25-03-1997;03-03-1997;1;11.57;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10458;North_SUPRD;7;26-02-1997;26-03-1997;04-03-1997;3;147.06;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+10459;North_VICTE;4;27-02-1997;27-03-1997;28-02-1997;2;25.09;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France
+10460;North_FOLKO;8;28-02-1997;28-03-1997;03-03-1997;1;16.27;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10461;North_LILAS;1;28-02-1997;28-03-1997;05-03-1997;3;148.61;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10462;North_CONSH;2;03-03-1997;31-03-1997;18-03-1997;1;6.17;Consolidated Holdings;Berkeley Gardens 12 Brewery;London;;WX1 6LT;UK
+10463;North_SUPRD;5;04-03-1997;01-04-1997;06-03-1997;3;14.78;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+10464;North_FURIB;4;04-03-1997;01-04-1997;14-03-1997;2;89.0;Furia Bacalhau e Frutos do Mar;Jardim das rosas n. 32;Lisboa;;1675;Portugal
+10465;North_VAFFE;1;05-03-1997;02-04-1997;14-03-1997;3;145.04;Vaffeljernet;Smagsloget 45;rhus;;8200;Denmark
+10466;North_COMMI;4;06-03-1997;03-04-1997;13-03-1997;1;11.93;Comrcio Mineiro;Av. dos Lusadas, 23;Sao Paulo;SP;05432-043;Brazil
+10467;North_MAGAA;8;06-03-1997;03-04-1997;11-03-1997;2;4.93;Magazzini Alimentari Riuniti;Via Ludovico il Moro 22;Bergamo;;24100;Italy
+10468;North_KOENE;3;07-03-1997;04-04-1997;12-03-1997;3;44.12;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10469;North_WHITC;1;10-03-1997;07-04-1997;14-03-1997;1;60.18;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10470;North_BONAP;4;11-03-1997;08-04-1997;14-03-1997;2;64.56;Bon app-;12, rue des Bouchers;Marseille;;13008;France
+10471;North_BSBEV;2;11-03-1997;08-04-1997;18-03-1997;3;45.59;B-s Beverages;Fauntleroy Circus;London;;EC2 5NT;UK
+10472;North_SEVES;8;12-03-1997;09-04-1997;19-03-1997;1;4.2;Seven Seas Imports;90 Wadhurst Rd.;London;;OX15 4NB;UK
+10473;North_ISLAT;1;13-03-1997;27-03-1997;21-03-1997;3;16.37;Island Trading;Garden House Crowther Way;Cowes;Isle of Wight;PO31 7PJ;UK
+10474;North_PERIC;5;13-03-1997;10-04-1997;21-03-1997;2;83.49;Pericles Comidas clsicas;Calle Dr. Jorge Cash 321;Mxico D.F.;;5033;Mexico
+10475;North_SUPRD;9;14-03-1997;11-04-1997;04-04-1997;1;68.52;Suprmes dlices;Boulevard Tirou, 255;Charleroi;;B-6000;Belgium
+10476;North_HILAA;8;17-03-1997;14-04-1997;24-03-1997;3;4.41;HILARION-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10477;North_PRINI;5;17-03-1997;14-04-1997;25-03-1997;2;13.02;Princesa Isabel Vinhos;Estrada da sade n. 58;Lisboa;;1756;Portugal
+10478;North_VICTE;2;18-03-1997;01-04-1997;26-03-1997;3;4.81;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France
+10479;North_RATTC;3;19-03-1997;16-04-1997;21-03-1997;3;708.95;Rattlesnake Canyon Grocery;2817 Milton Dr.;Albuquerque;NM;87110;USA
+10480;North_FOLIG;6;20-03-1997;17-04-1997;24-03-1997;2;1.35;Folies gourmandes;184, chausse de Tournai;Lille;;59000;France
+10481;North_RICAR;8;20-03-1997;17-04-1997;25-03-1997;2;64.33;Ricardo Adocicados;Av. Copacabana, 267;Rio de Janeiro;RJ;02389-890;Brazil
+10482;North_LAZYK;1;21-03-1997;18-04-1997;10-04-1997;3;7.48;Lazy K Kountry Store;12 Orchestra Terrace;Walla Walla;WA;99362;USA
+10483;North_WHITC;7;24-03-1997;21-04-1997;25-04-1997;2;15.28;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10484;North_BSBEV;3;24-03-1997;21-04-1997;01-04-1997;3;6.88;B-s Beverages;Fauntleroy Circus;London;;EC2 5NT;UK
+10485;North_LINOD;4;25-03-1997;08-04-1997;31-03-1997;2;64.45;LINO-Delicateses;Ave. 5 de Mayo Porlamar;I. de Margarita;Nueva Esparta;4980;Venezuela
+10486;North_HILAA;1;26-03-1997;23-04-1997;02-04-1997;2;30.53;HILARION-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10487;North_QUEEN;2;26-03-1997;23-04-1997;28-03-1997;2;71.07;Queen Cozinha;Alameda dos Canrios, 891;Sao Paulo;SP;05487-020;Brazil
+10488;North_FRANK;8;27-03-1997;24-04-1997;02-04-1997;2;4.93;Frankenversand;Berliner Platz 43;Mnchen;;80805;Germany
+10489;North_PICCO;6;28-03-1997;25-04-1997;09-04-1997;2;5.29;Piccolo und mehr;Geislweg 14;Salzburg;;5020;Austria
+10490;North_HILAA;7;31-03-1997;28-04-1997;03-04-1997;2;210.19;HILARION-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10491;North_FURIB;8;31-03-1997;28-04-1997;08-04-1997;3;16.96;Furia Bacalhau e Frutos do Mar;Jardim das rosas n. 32;Lisboa;;1675;Portugal
+10492;North_BOTTM;3;01-04-1997;29-04-1997;11-04-1997;1;62.89;Bottom-Dollar Markets;23 Tsawassen Blvd.;Tsawassen;BC;T2F 8M4;Canada
+10493;North_LAMAI;4;02-04-1997;30-04-1997;10-04-1997;3;10.64;La maison d-Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10494;North_COMMI;4;02-04-1997;30-04-1997;09-04-1997;2;65.99;Comrcio Mineiro;Av. dos Lusadas, 23;Sao Paulo;SP;05432-043;Brazil
+10495;North_LAUGB;3;03-04-1997;01-05-1997;11-04-1997;3;4.65;Laughing Bacchus Wine Cellars;2319 Elm St.;Vancouver;BC;V3F 2K1;Canada
+10496;North_TRADH;7;04-04-1997;02-05-1997;07-04-1997;2;46.77;Tradiao Hipermercados;Av. Ins de Castro, 414;Sao Paulo;SP;05634-030;Brazil
+10497;North_LEHMS;7;04-04-1997;02-05-1997;07-04-1997;1;36.21;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10498;North_HILAA;8;07-04-1997;05-05-1997;11-04-1997;2;29.75;HILARION-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10499;North_LILAS;4;08-04-1997;06-05-1997;16-04-1997;2;102.02;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10500;North_LAMAI;6;09-04-1997;07-05-1997;17-04-1997;1;42.68;La maison d-Asie;1 rue Alsace-Lorraine;Toulouse;;31000;France
+10501;North_BLAUS;9;09-04-1997;07-05-1997;16-04-1997;3;8.85;Blauer See Delikatessen;Forsterstr. 57;Mannheim;;68306;Germany
+10502;North_PERIC;2;10-04-1997;08-05-1997;29-04-1997;1;69.32;Pericles Comidas clsicas;Calle Dr. Jorge Cash 321;Mxico D.F.;;5033;Mexico
+10503;North_HUNGO;6;11-04-1997;09-05-1997;16-04-1997;2;16.74;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10504;North_WHITC;4;11-04-1997;09-05-1997;18-04-1997;3;59.13;White Clover Markets;1029 - 12th Ave. S.;Seattle;WA;98124;USA
+10505;North_MEREP;3;14-04-1997;12-05-1997;21-04-1997;3;7.13;Mre Paillarde;43 rue St. Laurent;Montral;Qubec;H1J 1C3;Canada
+10506;North_KOENE;9;15-04-1997;13-05-1997;02-05-1997;2;21.19;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10507;North_ANTON;7;15-04-1997;13-05-1997;22-04-1997;1;47.45;Antonio Moreno Taquera;Mataderos 2312;Mxico D.F.;;5023;Mexico
+10508;North_OTTIK;1;16-04-1997;14-05-1997;13-05-1997;2;4.99;Ottilies Kseladen;Mehrheimerstr. 369;Kln;;50739;Germany
+10509;North_BLAUS;4;17-04-1997;15-05-1997;29-04-1997;1;0.15;Blauer See Delikatessen;Forsterstr. 57;Mannheim;;68306;Germany
+10510;North_SAVEA;6;18-04-1997;16-05-1997;28-04-1997;3;367.63;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10511;North_BONAP;4;18-04-1997;16-05-1997;21-04-1997;3;350.64;Bon app-;12, rue des Bouchers;Marseille;;13008;France
+10512;North_FAMIA;7;21-04-1997;19-05-1997;24-04-1997;2;3.53;Familia Arquibaldo;Rua Ors, 92;Sao Paulo;SP;05442-030;Brazil
+10513;North_WANDK;7;22-04-1997;03-06-1997;28-04-1997;1;105.65;Die Wandernde Kuh;Adenauerallee 900;Stuttgart;;70563;Germany
+10514;North_ERNSH;3;22-04-1997;20-05-1997;16-05-1997;2;789.95;Ernst Handel;Kirchgasse 6;Graz;;8010;Austria
+10515;North_QUICK;2;23-04-1997;07-05-1997;23-05-1997;1;204.47;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10516;North_HUNGO;2;24-04-1997;22-05-1997;01-05-1997;3;62.78;Hungry Owl All-Night Grocers;8 Johnstown Road;Cork;Co. Cork;;Ireland
+10517;North_NORTS;3;24-04-1997;22-05-1997;29-04-1997;3;32.07;North/South;South House 300 Queensbridge;London;;SW7 1RZ;UK
+10518;North_TORTU;4;25-04-1997;09-05-1997;05-05-1997;2;218.15;Tortuga Restaurante;Avda. Azteca 123;Mxico D.F.;;5033;Mexico
+10519;North_CHOPS;6;28-04-1997;26-05-1997;01-05-1997;3;91.76;Chop-suey Chinese;Hauptstr. 31;Bern;;3012;Switzerland
+10520;North_SANTG;7;29-04-1997;27-05-1997;01-05-1997;1;13.37;Sant Gourmet;Erling Skakkes gate 78;Stavern;;4110;Norway
+10521;North_CACTU;8;29-04-1997;27-05-1997;02-05-1997;2;17.22;Cactus Comidas para llevar;Cerrito 333;Buenos Aires;;1010;Argentina
+10522;North_LEHMS;4;30-04-1997;28-05-1997;06-05-1997;1;45.33;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10523;North_SEVES;7;01-05-1997;29-05-1997;30-05-1997;2;77.63;Seven Seas Imports;90 Wadhurst Rd.;London;;OX15 4NB;UK
+10524;North_BERGS;1;01-05-1997;29-05-1997;07-05-1997;2;244.79;Berglunds snabbkp;Berguvsvgen 8;Lule;;S-958 22;Sweden
+10525;North_BONAP;1;02-05-1997;30-05-1997;23-05-1997;2;11.06;Bon app-;12, rue des Bouchers;Marseille;;13008;France
+10526;North_WARTH;4;05-05-1997;02-06-1997;15-05-1997;2;58.59;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10527;North_QUICK;7;05-05-1997;02-06-1997;07-05-1997;1;41.9;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10528;North_GREAL;6;06-05-1997;20-05-1997;09-05-1997;2;3.35;Great Lakes Food Market;2732 Baker Blvd.;Eugene;OR;97403;USA
+10529;North_MAISD;5;07-05-1997;04-06-1997;09-05-1997;2;66.69;Maison Dewey;Rue Joseph-Bens 532;Bruxelles;;B-1180;Belgium
+10530;North_PICCO;3;08-05-1997;05-06-1997;12-05-1997;2;339.22;Piccolo und mehr;Geislweg 14;Salzburg;;5020;Austria
+10531;North_OCEAN;7;08-05-1997;05-06-1997;19-05-1997;1;8.12;Ocano Atlntico Ltda.;Ing. Gustavo Moncada 8585 Piso 20-A;Buenos Aires;;1010;Argentina
+10532;North_EASTC;7;09-05-1997;06-06-1997;12-05-1997;3;74.46;Eastern Connection;35 King George;London;;WX3 6FW;UK
+10533;North_FOLKO;8;12-05-1997;09-06-1997;22-05-1997;1;188.04;Folk och f HB;kergatan 24;Brcke;;S-844 67;Sweden
+10534;North_LEHMS;8;12-05-1997;09-06-1997;14-05-1997;2;27.94;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10535;North_ANTON;4;13-05-1997;10-06-1997;21-05-1997;1;15.64;Antonio Moreno Taquera;Mataderos 2312;Mxico D.F.;;5023;Mexico
+10536;North_LEHMS;3;14-05-1997;11-06-1997;06-06-1997;2;58.88;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10537;North_RICSU;1;14-05-1997;28-05-1997;19-05-1997;1;78.85;Richter Supermarkt;Starenweg 5;Genve;;1204;Switzerland
+10538;North_BSBEV;9;15-05-1997;12-06-1997;16-05-1997;3;4.87;B-s Beverages;Fauntleroy Circus;London;;EC2 5NT;UK
+10539;North_BSBEV;6;16-05-1997;13-06-1997;23-05-1997;3;12.36;B-s Beverages;Fauntleroy Circus;London;;EC2 5NT;UK
+10540;North_QUICK;3;19-05-1997;16-06-1997;13-06-1997;3;1007.64;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10541;North_HANAR;2;19-05-1997;16-06-1997;29-05-1997;1;68.65;Hanari Carnes;Rua do Pao, 67;Rio de Janeiro;RJ;05454-876;Brazil
+10542;North_KOENE;1;20-05-1997;17-06-1997;26-05-1997;3;10.95;Kniglich Essen;Maubelstr. 90;Brandenburg;;14776;Germany
+10543;North_LILAS;8;21-05-1997;18-06-1997;23-05-1997;2;48.17;LILA-Supermercado;Carrera 52 con Ave. Bolvar #65-98 Llano Largo;Barquisimeto;Lara;3508;Venezuela
+10544;North_LONEP;4;21-05-1997;18-06-1997;30-05-1997;1;24.91;Lonesome Pine Restaurant;89 Chiaroscuro Rd.;Portland;OR;97219;USA
+10545;North_LAZYK;8;22-05-1997;19-06-1997;26-06-1997;2;11.92;Lazy K Kountry Store;12 Orchestra Terrace;Walla Walla;WA;99362;USA
+10546;North_VICTE;1;23-05-1997;20-06-1997;27-05-1997;3;194.72;Victuailles en stock;2, rue du Commerce;Lyon;;69004;France
+10547;North_SEVES;3;23-05-1997;20-06-1997;02-06-1997;2;178.43;Seven Seas Imports;90 Wadhurst Rd.;London;;OX15 4NB;UK
+10548;North_TOMSP;3;26-05-1997;23-06-1997;02-06-1997;2;1.43;Toms Spezialitten;Luisenstr. 48;Mnster;;44087;Germany
+10549;North_QUICK;5;27-05-1997;10-06-1997;30-05-1997;1;171.24;QUICK-Stop;Taucherstrae 10;Cunewalde;;1307;Germany
+10550;North_GODOS;7;28-05-1997;25-06-1997;06-06-1997;3;4.32;Godos Cocina Tpica;C/ Romero, 33;Sevilla;;41101;Spain
+10551;North_FURIB;4;28-05-1997;09-07-1997;06-06-1997;3;72.95;Furia Bacalhau e Frutos do Mar;Jardim das rosas n. 32;Lisboa;;1675;Portugal
+10552;North_HILAA;2;29-05-1997;26-06-1997;05-06-1997;1;83.22;HILARION-Abastos;Carrera 22 con Ave. Carlos Soublette #8-35;San Cristbal;Tchira;5022;Venezuela
+10553;North_WARTH;2;30-05-1997;27-06-1997;03-06-1997;2;149.49;Wartian Herkku;Torikatu 38;Oulu;;90110;Finland
+10554;North_OTTIK;4;30-05-1997;27-06-1997;05-06-1997;3;120.97;Ottilies Kseladen;Mehrheimerstr. 369;Kln;;50739;Germany
+10555;North_SAVEA;6;02-06-1997;30-06-1997;04-06-1997;3;252.49;Save-a-lot Markets;187 Suffolk Ln.;Boise;ID;83720;USA
+10556;North_SIMOB;2;03-06-1997;15-07-1997;13-06-1997;1;9.8;Simons bistro;Vinbltet 34;Kobenhavn;;1734;Denmark
+10557;North_LEHMS;9;03-06-1997;17-06-1997;06-06-1997;2;96.72;Lehmanns Marktstand;Magazinweg 7;Frankfurt a.M.;;60528;Germany
+10558;North_AROUT;1;04-06-1997;02-07-1997;10-06-1997;2;72.97;Around the Horn;Brook Farm Stratford St. Mary;Colchester;Essex;CO7 6JX;UK
+10559;North_BLONP;6;05-06-1997;03-07-1997;13-06-1997;1;8.05;Blondel pre et fils;24, place Klber;Strasbourg;;67000;France
